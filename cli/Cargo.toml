@@ -8,6 +8,7 @@ repository = "https://github.com/ethereumproject/sputnikvm"
 
 [[bin]]
 name = "sputnikvm-cli"
+path = "src/bin/main.rs"
 
 [dependencies]
 etcommon-bigint = "0.2"
